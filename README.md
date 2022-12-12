@@ -12,3 +12,5 @@ You can click the Preview link to take a look at your changes.
   align="center"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=windyMaster&show_icons=true&layout=compact"
 />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=windyMaster&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
